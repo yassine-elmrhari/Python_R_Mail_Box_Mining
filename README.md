@@ -1,4 +1,4 @@
-# 📧 Mining Mail Box  
+# 📧 Python & R Mail Box Mining and Classification 
 
 
 ## Description  
